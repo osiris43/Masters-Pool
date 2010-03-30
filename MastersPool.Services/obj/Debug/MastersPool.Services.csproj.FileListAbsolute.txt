@@ -1,0 +1,9 @@
+c:\Code\pools\MastersPool\MastersPool.Services\bin\Debug\MastersPool.Services.dll
+c:\Code\pools\MastersPool\MastersPool.Services\bin\Debug\MastersPool.Services.pdb
+c:\Code\pools\MastersPool\MastersPool.Services\bin\Debug\MastersPool.Core.dll
+c:\Code\pools\MastersPool\MastersPool.Services\bin\Debug\MastersPool.Data.dll
+c:\Code\pools\MastersPool\MastersPool.Services\bin\Debug\MastersPool.Data.pdb
+c:\Code\pools\MastersPool\MastersPool.Services\bin\Debug\MastersPool.Core.pdb
+c:\Code\pools\MastersPool\MastersPool.Services\obj\Debug\ResolveAssemblyReference.cache
+c:\Code\pools\MastersPool\MastersPool.Services\obj\Debug\MastersPool.Services.dll
+c:\Code\pools\MastersPool\MastersPool.Services\obj\Debug\MastersPool.Services.pdb

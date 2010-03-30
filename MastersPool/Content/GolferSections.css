@@ -1,0 +1,78 @@
+﻿.golfersGroupBox
+{
+    margin-bottom:20px;
+    padding: 0;
+}
+
+.golfersGroupBoxPlaceHolder
+{
+    border: 1px dotted #000000;
+    background-color: #FFFFCC;
+	height: 50px;
+	margin-bottom: 20px; 
+}
+
+.golfersBoxHeader
+{
+    background-color: #333333;
+	margin: 0;
+	min-height: 1.5em;
+	padding: 5px 5px;
+	overflow: hidden;
+	position: relative;
+}
+
+.golfersBoxName
+{
+    float: left;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	margin: 0;
+}
+
+/*** Golfers ***/
+
+.golferBox
+{
+    background-color: #DDDDDD;
+}
+
+.golferList 
+{
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+    margin: 0;
+    min-height: 10px;
+}
+
+.golferRow
+{
+    margin: 0;
+    padding: 0.1em 0.5em;
+    overflow: hidden;
+    position: relative;
+}
+
+.golferRow:hover
+{
+    cursor: move;
+    background-color: #EEEEEE;
+    color: #000000;
+}
+
+.golferRowPlaceholder
+{
+    border: 1px dotted #000000;
+    background-color: #FFFFCC;
+    height: 1.5em;
+    margin-left: 0;
+}
+
+.golferName 
+{
+    float: left;
+	font-weight: bold;
+	margin: 0;
+}

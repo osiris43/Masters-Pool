@@ -1,0 +1,17 @@
+c:\Code\pools\MastersPool\MastersPool.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\Code\pools\MastersPool\MastersPool.Tests\bin\Debug\MastersPool.Tests.dll
+c:\Code\pools\MastersPool\MastersPool.Tests\bin\Debug\MastersPool.Tests.pdb
+c:\Code\pools\MastersPool\MastersPool.Tests\bin\Debug\MastersPool.dll
+c:\Code\pools\MastersPool\MastersPool.Tests\bin\Debug\Rhino.Mocks.dll
+c:\Code\pools\MastersPool\MastersPool.Tests\bin\Debug\xunit.dll
+c:\Code\pools\MastersPool\MastersPool.Tests\bin\Debug\MastersPool.pdb
+c:\Code\pools\MastersPool\MastersPool.Tests\obj\Debug\MastersPool.Tests.dll
+c:\Code\pools\MastersPool\MastersPool.Tests\obj\Debug\MastersPool.Tests.pdb
+c:\Code\pools\MastersPool\MastersPool.Tests\bin\Debug\MastersPool.Core.dll
+c:\Code\pools\MastersPool\MastersPool.Tests\bin\Debug\MastersPool.Services.dll
+c:\Code\pools\MastersPool\MastersPool.Tests\bin\Debug\MastersPool.Core.pdb
+c:\Code\pools\MastersPool\MastersPool.Tests\bin\Debug\MastersPool.Services.pdb
+c:\Code\pools\MastersPool\MastersPool.Tests\bin\Debug\Ninject.dll
+c:\Code\pools\MastersPool\MastersPool.Tests\bin\Debug\Ninject.Web.Mvc.dll
+c:\Code\pools\MastersPool\MastersPool.Tests\bin\Debug\MastersPool.Data.dll
+c:\Code\pools\MastersPool\MastersPool.Tests\bin\Debug\MastersPool.Data.pdb

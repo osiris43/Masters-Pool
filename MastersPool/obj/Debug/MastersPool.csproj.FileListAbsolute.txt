@@ -1,0 +1,13 @@
+c:\Code\pools\MastersPool\MastersPool\bin\MastersPool.dll
+c:\Code\pools\MastersPool\MastersPool\bin\MastersPool.pdb
+c:\Code\pools\MastersPool\MastersPool\obj\Debug\ResolveAssemblyReference.cache
+c:\Code\pools\MastersPool\MastersPool\obj\Debug\MastersPool.dll
+c:\Code\pools\MastersPool\MastersPool\obj\Debug\MastersPool.pdb
+c:\Code\pools\MastersPool\MastersPool\bin\MastersPool.Core.dll
+c:\Code\pools\MastersPool\MastersPool\bin\MastersPool.Services.dll
+c:\Code\pools\MastersPool\MastersPool\bin\MastersPool.Core.pdb
+c:\Code\pools\MastersPool\MastersPool\bin\MastersPool.Services.pdb
+c:\Code\pools\MastersPool\MastersPool\bin\MastersPool.Data.dll
+c:\Code\pools\MastersPool\MastersPool\bin\Ninject.dll
+c:\Code\pools\MastersPool\MastersPool\bin\Ninject.Web.Mvc.dll
+c:\Code\pools\MastersPool\MastersPool\bin\MastersPool.Data.pdb

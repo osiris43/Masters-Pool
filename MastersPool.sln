@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MastersPool", "MastersPool\MastersPool.csproj", "{FDFF2E55-703D-4D99-A5D8-BAB887DAE667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MastersPool.Tests", "MastersPool.Tests\MastersPool.Tests.csproj", "{1C4E1BF1-E65F-4126-9E70-758E8669BBEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{4EA4BC46-AEFA-4B7C-A2CE-68961ED502F4}"
+	ProjectSection(SolutionItems) = preProject
+		lib\Ninject.dll = lib\Ninject.dll
+		lib\Ninject.Web.Mvc.dll = lib\Ninject.Web.Mvc.dll
+		lib\Rhino.Mocks.dll = lib\Rhino.Mocks.dll
+		lib\xunit.dll = lib\xunit.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MastersPool.Services", "MastersPool.Services\MastersPool.Services.csproj", "{E5CA351B-616D-4D89-969A-D8B43601E353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MastersPool.Data", "MastersPool.Data\MastersPool.Data.csproj", "{CFDB4AA0-0AAF-4911-B254-E189DDD53481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MastersPool.Core", "MastersPool.Core\MastersPool.Core.csproj", "{CFFDABBC-552F-4446-A3DB-7002F873A711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDFF2E55-703D-4D99-A5D8-BAB887DAE667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFF2E55-703D-4D99-A5D8-BAB887DAE667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFF2E55-703D-4D99-A5D8-BAB887DAE667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFF2E55-703D-4D99-A5D8-BAB887DAE667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C4E1BF1-E65F-4126-9E70-758E8669BBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4E1BF1-E65F-4126-9E70-758E8669BBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4E1BF1-E65F-4126-9E70-758E8669BBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4E1BF1-E65F-4126-9E70-758E8669BBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5CA351B-616D-4D89-969A-D8B43601E353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CA351B-616D-4D89-969A-D8B43601E353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5CA351B-616D-4D89-969A-D8B43601E353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CA351B-616D-4D89-969A-D8B43601E353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFDB4AA0-0AAF-4911-B254-E189DDD53481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDB4AA0-0AAF-4911-B254-E189DDD53481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDB4AA0-0AAF-4911-B254-E189DDD53481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDB4AA0-0AAF-4911-B254-E189DDD53481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFFDABBC-552F-4446-A3DB-7002F873A711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFFDABBC-552F-4446-A3DB-7002F873A711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFFDABBC-552F-4446-A3DB-7002F873A711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFFDABBC-552F-4446-A3DB-7002F873A711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

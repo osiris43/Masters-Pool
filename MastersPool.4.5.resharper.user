@@ -1,0 +1,315 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1C4E1BF1-E65F-4126-9E70-758E8669BBEE/d:TestDoubles/f:StubContext.cs" caret="0" fromTop="0" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/f:Web.config" caret="5342" fromTop="81" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Controllers/f:HomeController.cs" caret="334" fromTop="13" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Controllers/f:GolferController.cs" caret="501" fromTop="21" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Views/d:Home/f:Index.aspx" caret="0" fromTop="0" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/f:Global.asax.cs" caret="1870" fromTop="16" />
+      <File id="d:Miscellaneous Files/f:KernelBase.cs/l:C!?Code?Downloads?enkari-ninject-bc7df39?enkari-ninject-bc7df39?src?Ninject?KernelBase.cs" caret="3414" fromTop="16" />
+      <File id="CFFDABBC-552F-4446-A3DB-7002F873A711/f:Golfer.cs" caret="966" fromTop="21" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Controllers/f:AdminController.cs" caret="1069" fromTop="21" />
+      <File id="1C4E1BF1-E65F-4126-9E70-758E8669BBEE/d:Controllers/f:HomeControllerFacts.cs" caret="1026" fromTop="20" />
+      <File id="CFFDABBC-552F-4446-A3DB-7002F873A711/f:MastersConfiguration.cs" caret="244" fromTop="11" />
+      <File id="d:&amp;/f:MastersParticipant.cs/l:C!?Code?pools?MastersPool?MastersPool.Core?MastersParticipant.cs" caret="1332" fromTop="47" />
+      <File id="E5CA351B-616D-4D89-969A-D8B43601E353/d:Interfaces/f:IGolferService.cs" caret="317" fromTop="11" />
+      <File id="E5CA351B-616D-4D89-969A-D8B43601E353/f:GolferService.cs" caret="728" fromTop="21" />
+      <File id="d:&amp;/f:AdminViewModelBuilderFacts.cs/l:C!?Code?pools?MastersPool?MastersPool.Tests?ViewModelBuilders?AdminViewModelBuilderFacts.cs" caret="1073" fromTop="17" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Models/f:AdminViewModel.cs" caret="87" fromTop="3" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Models/f:GolferSectionViewModel.cs" caret="295" fromTop="11" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Views/d:Shared/f:GolferSection.ascx" caret="345" fromTop="6" />
+      <File id="d:&amp;/f:GolferSections.css/l:C!?Code?pools?MastersPool?MastersPool?Content?GolferSections.css" caret="63" fromTop="4" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Models/f:AdminViewModelBuilder.cs" caret="1210" fromTop="6" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Content/f:Site.css" caret="5339" fromTop="17" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Views/d:Admin/f:Index.aspx" caret="1097" fromTop="7" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Views/d:Shared/f:SingleGolfer.ascx" caret="0" fromTop="0" />
+      <File id="d:&amp;/f:jquery-1.4.2.js/l:C!?Code?pools?MastersPool?MastersPool?Scripts?jquery-1.4.2.js" caret="225155" fromTop="29" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Scripts/f:jquery-ui-1.8.custom.min.js" caret="0" fromTop="0" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Views/d:Shared/f:Site.Master" caret="544" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="d:&amp;/f:AdminViewModelBuilderFacts.cs/l:C!?Code?pools?MastersPool?MastersPool.Tests?ViewModelBuilders?AdminViewModelBuilderFacts.cs" caret="1825" fromTop="24" />
+      <File id="d:&amp;/f:AdminViewModelBuilderFacts.cs/l:C!?Code?pools?MastersPool?MastersPool.Tests?ViewModelBuilders?AdminViewModelBuilderFacts.cs" caret="547" fromTop="6" />
+      <File id="d:&amp;/f:AdminViewModelBuilderFacts.cs/l:C!?Code?pools?MastersPool?MastersPool.Tests?ViewModelBuilders?AdminViewModelBuilderFacts.cs" caret="1736" fromTop="17" />
+      <File id="d:&amp;/f:AdminViewModelBuilderFacts.cs/l:C!?Code?pools?MastersPool?MastersPool.Tests?ViewModelBuilders?AdminViewModelBuilderFacts.cs" caret="320" fromTop="4" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Models/f:AdminViewModelBuilder.cs" caret="985" fromTop="12" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Models/f:AdminViewModelBuilder.cs" caret="3176" fromTop="19" />
+      <File id="d:&amp;/f:AdminViewModelBuilderFacts.cs/l:C!?Code?pools?MastersPool?MastersPool.Tests?ViewModelBuilders?AdminViewModelBuilderFacts.cs" caret="1073" fromTop="17" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Models/f:AdminViewModelBuilder.cs" caret="3001" fromTop="16" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Views/d:Shared/f:Site.Master" caret="544" fromTop="8" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Views/d:Admin/f:Index.aspx" caret="623" fromTop="18" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Views/d:Admin/f:Index.aspx" caret="623" fromTop="23" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Views/d:Admin/f:Index.aspx" caret="623" fromTop="18" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Views/d:Admin/f:Index.aspx" caret="635" fromTop="13" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Views/d:Admin/f:Index.aspx" caret="862" fromTop="16" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Views/d:Admin/f:Index.aspx" caret="862" fromTop="13" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Views/d:Admin/f:Index.aspx" caret="1965" fromTop="24" />
+      <File id="d:&amp;/f:GolferSections.css/l:C!?Code?pools?MastersPool?MastersPool?Content?GolferSections.css" caret="63" fromTop="4" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Models/f:AdminViewModelBuilder.cs" caret="1939" fromTop="8" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Models/f:AdminViewModelBuilder.cs" caret="2297" fromTop="15" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Models/f:AdminViewModelBuilder.cs" caret="2484" fromTop="21" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Models/f:AdminViewModelBuilder.cs" caret="2742" fromTop="19" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Models/f:AdminViewModelBuilder.cs" caret="1811" fromTop="13" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Content/f:Site.css" caret="5376" fromTop="20" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Views/d:Admin/f:Index.aspx" caret="1662" fromTop="21" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Views/d:Admin/f:Index.aspx" caret="1910" fromTop="25" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Views/d:Admin/f:Index.aspx" caret="1910" fromTop="21" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Views/d:Admin/f:Index.aspx" caret="860" fromTop="4" />
+      <File id="FDFF2E55-703D-4D99-A5D8-BAB887DAE667/d:Views/d:Admin/f:Index.aspx" caret="1097" fromTop="7" />
+      <File id="d:&amp;/f:jquery-1.4.2.js/l:C!?Code?pools?MastersPool?MastersPool?Scripts?jquery-1.4.2.js" caret="0" fromTop="0" />
+      <File id="d:&amp;/f:jquery-1.4.2.js/l:C!?Code?pools?MastersPool?MastersPool?Scripts?jquery-1.4.2.js" caret="225155" fromTop="29" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Roles" priority="1" />
+      <Item value="Name" priority="5" />
+      <Item value="Column" priority="8" />
+      <Item value="public" priority="27" />
+      <Item value="string" priority="9" />
+      <Item value="List" priority="14" />
+      <Item value="private" priority="12" />
+      <Item value="null" priority="12" />
+      <Item value="MastersConfiguration" priority="4" />
+      <Item value="AdminViewModelBuilder" priority="9" />
+      <Item value="IConfigurationService" priority="4" />
+      <Item value="this" priority="27" />
+      <Item value="cs" priority="3" />
+      <Item value="AdminViewModel" priority="7" />
+      <Item value="int" priority="9" />
+      <Item value="new" priority="23" />
+      <Item value="viewModel" priority="16" />
+      <Item value="configService" priority="4" />
+      <Item value="return" priority="10" />
+      <Item value="AdminController" priority="1" />
+      <Item value="builder" priority="5" />
+      <Item value="ViewData" priority="2" />
+      <Item value="Model" priority="8" />
+      <Item value="override" priority="0" />
+      <Item value="RegisterAllControllersIn" priority="0" />
+      <Item value="AssemblyLoadEventArgs" priority="0" />
+      <Item value="MastersPool" priority="0" />
+      <Item value="Data" priority="0" />
+      <Item value="SqlServer" priority="0" />
+      <Item value="SqlSessionRepository" priority="0" />
+      <Item value="ConfigurationService" priority="0" />
+      <Item value="sr" priority="1" />
+      <Item value="ISessionRepository" priority="1" />
+      <Item value="MS" priority="0" />
+      <Item value="mc" priority="1" />
+      <Item value="key" priority="0" />
+      <Item value="Html" priority="6" />
+      <Item value="Authorize" priority="0" />
+      <Item value="ActionResult" priority="0" />
+      <Item value="View" priority="0" />
+      <Item value="void" priority="6" />
+      <Item value="MastersYear" priority="3" />
+      <Item value="Convert" priority="0" />
+      <Item value="currentYear" priority="1" />
+      <Item value="year" priority="3" />
+      <Item value="IGolferService" priority="7" />
+      <Item value="gs" priority="4" />
+      <Item value="Bind" priority="3" />
+      <Item value="GolferService" priority="1" />
+      <Item value="Golfer" priority="8" />
+      <Item value="GolferController" priority="0" />
+      <Item value="foreach" priority="3" />
+      <Item value="golfer" priority="0" />
+      <Item value="GolferSectionViewModel" priority="8" />
+      <Item value="GolferSections" priority="0" />
+      <Item value="List&lt;GolferSectionViewModel&gt;" priority="0" />
+      <Item value="in" priority="1" />
+      <Item value="golfers" priority="10" />
+      <Item value="section" priority="3" />
+      <Item value="Golfers" priority="2" />
+      <Item value="FormsAuthenticationService" priority="0" />
+      <Item value="IMembershipService" priority="0" />
+      <Item value="AccountMembershipService" priority="0" />
+      <Item value="Membership" priority="0" />
+      <Item value="Content" priority="0" />
+      <Item value="IComparable" priority="0" />
+      <Item value="if" priority="5" />
+      <Item value="obj" priority="1" />
+      <Item value="is" priority="0" />
+      <Item value="as" priority="0" />
+      <Item value="FirstName" priority="1" />
+      <Item value="golfer2" priority="0" />
+      <Item value="else" priority="0" />
+      <Item value="throw" priority="0" />
+      <Item value="ArgumentException" priority="0" />
+      <Item value="List&lt;Golfer&gt;" priority="2" />
+      <Item value="SectionHeader" priority="1" />
+      <Item value="LastName" priority="0" />
+      <Item value="golferService" priority="6" />
+      <Item value="AdminViewModelBuilderFacts" priority="0" />
+      <Item value="MockRepository" priority="0" />
+      <Item value="ConfigKey" priority="0" />
+      <Item value="ConfigValue" priority="0" />
+      <Item value="Assert" priority="4" />
+      <Item value="Fact" priority="0" />
+      <Item value="Association" priority="0" />
+      <Item value="Storage" priority="0" />
+      <Item value="IsForeignKey" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="ThisKey" priority="0" />
+      <Item value="OtherKey" priority="0" />
+      <Item value="value" priority="0" />
+      <Item value="MastersParticipant" priority="11" />
+      <Item value="mp" priority="6" />
+      <Item value="currentPlayers" priority="4" />
+      <Item value="cp" priority="3" />
+      <Item value="IFormsAuthenticationService" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="from" priority="0" />
+      <Item value="where" priority="0" />
+      <Item value="select" priority="0" />
+      <Item value="query" priority="0" />
+      <Item value="participants" priority="8" />
+      <Item value="unassigned" priority="7" />
+      <Item value="List&lt;MastersParticipant&gt;" priority="1" />
+      <Item value="GolferId" priority="0" />
+      <Item value="MoneyGroup" priority="0" />
+      <Item value="Id" priority="0" />
+      <Item value="g" priority="0" />
+      <Item value="golf" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="i" priority="4" />
+      <Item value="String" priority="1" />
+      <Item value="moneyGroup" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MastersPool.Models.AdminViewModelBuilder">
+      <Item value="configService" priority="0" />
+      <Item value="Build" priority="5" />
+      <Item value="golferService" priority="2" />
+      <Item value="BuildSevenDollarSection" priority="0" />
+      <Item value="RemoveParticipantsFromUnassigned" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MastersPool.Models.AdminViewModel">
+      <Item value="CurrentYear" priority="2" />
+      <Item value="Message" priority="0" />
+      <Item value="GolferSections" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MastersPool.Services.Interfaces.IConfigurationService">
+      <Item value="GetConfigurationByKey" priority="1" />
+      <Item value="Stub" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MastersPool.Core.MastersConfiguration">
+      <Item value="ConfigValue" priority="2" />
+      <Item value="ConfigKey" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MastersPool.Controllers.AdminController">
+      <Item value="configService" priority="3" />
+      <Item value="golferService" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ViewDataDictionary">
+      <Item value="Model" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="Encode" priority="3" />
+      <Item value="ActionLink" priority="0" />
+      <Item value="RenderPartial" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="GetExecutingAssembly" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MastersPool.Services.ConfigurationService">
+      <Item value="sessionRespository" priority="0" />
+      <Item value="sessionRepository" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MastersPool.Data.Interfaces.ISessionRepository">
+      <Item value="SelectSingle" priority="1" />
+      <Item value="Save" priority="0" />
+      <Item value="SubmitChanges" priority="0" />
+      <Item value="Select" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MastersPool.Core.MastersYear">
+      <Item value="Year" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ninject.Syntax.IBindingToSyntax`1">
+      <Item value="To" priority="2" />
+      <Item value="ToMethod" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MastersPool.Services.GolferService">
+      <Item value="sessionRepository" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MastersPool.Services.Interfaces.IGolferService">
+      <Item value="GetAllGolfers" priority="3" />
+      <Item value="Stub" priority="1" />
+      <Item value="GetMastersParticipantsByYear" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MastersPool.Core.Golfer">
+      <Item value="Id" priority="3" />
+      <Item value="FirstName" priority="1" />
+      <Item value="LastName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MastersPool.Models.GolferSectionViewModel">
+      <Item value="SectionHeader" priority="1" />
+      <Item value="Golfers" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add" priority="3" />
+      <Item value="Sort" priority="1" />
+      <Item value="Count" priority="4" />
+      <Item value="Select" priority="0" />
+      <Item value="Contains" priority="0" />
+      <Item value="Remove" priority="1" />
+      <Item value="Exists" priority="0" />
+      <Item value="Single" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Security.Membership">
+      <Item value="Provider" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="CompareTo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.MockRepository">
+      <Item value="GenerateStub" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.Interfaces.IMethodOptions`1">
+      <Item value="Return" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Xunit.Assert">
+      <Item value="Equal" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MastersPool.Tests.ViewModelBuilders.AdminViewModelBuilderFacts">
+      <Item value="InitServices" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MastersPool.Core.MastersParticipant">
+      <Item value="mastersYear" priority="1" />
+      <Item value="golfer" priority="0" />
+      <Item value="MastersYear" priority="0" />
+      <Item value="MoneyGroup" priority="2" />
+      <Item value="Golfer" priority="3" />
+      <Item value="GolferId" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Linq.EntityRef`1">
+      <Item value="Entity" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

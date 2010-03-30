@@ -1,0 +1,5 @@
+c:\Code\pools\MastersPool\MastersPool.Core\bin\Debug\MastersPool.Core.dll
+c:\Code\pools\MastersPool\MastersPool.Core\bin\Debug\MastersPool.Core.pdb
+c:\Code\pools\MastersPool\MastersPool.Core\obj\Debug\ResolveAssemblyReference.cache
+c:\Code\pools\MastersPool\MastersPool.Core\obj\Debug\MastersPool.Core.dll
+c:\Code\pools\MastersPool\MastersPool.Core\obj\Debug\MastersPool.Core.pdb
